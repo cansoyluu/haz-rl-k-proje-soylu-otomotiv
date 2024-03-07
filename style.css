@@ -1,0 +1,16 @@
+.head {
+  background-color: #212529;
+}
+.nav-link:hover {
+  color: white !important;
+}
+.py-5 {
+  padding-top: 3rem !important;
+  padding-bottom: 3rem !important;
+}
+.start-text {
+  padding: 7rem;
+}
+h1 {
+  font-size: 3rem;
+}
